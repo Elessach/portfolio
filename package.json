@@ -1,15 +1,16 @@
 {
-  "name": "project",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "portfolio of elessach, Léa Sharon Harabagiu",
   "main": "index.js",
+  "homepage" : "http://www.elessach.com/",
   "scripts": {
     "start": "hyperapp-scripts",
     "build": "hyperapp-scripts build",
     "test": "hyperapp-scripts test"
   },
   "keywords": [],
-  "author": "",
+  "author": "Léa Sharon Harabagiu",
   "license": "ISC",
   "dependencies": {
     "hyperapp": "^1.2.9"
